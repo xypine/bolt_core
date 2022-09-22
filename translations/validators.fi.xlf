@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="fi-FI">
+  <file id="validators.en">
+    <unit id="zh5oKD9" name="This value should be false.">
+      <segment state="translated">
+        <source>This value should be false.</source>
+        <target>Tämän arvon tulisi olla epätosi.</target>
+      </segment>
+    </unit>
+    <unit id="NN2_iru" name="This value should be true.">
+      <segment state="translated">
+        <source>This value should be true.</source>
+        <target>Tämän arvon tulisi olla tosi.</target>
+      </segment>
+    </unit>
+    <unit id="OjM_kpf" name="This value should be of type {{ type }}.">
+      <segment state="translated">
+        <source>This value should be of type {{ type }}.</source>
+        <target>Tämän arvon tulisi olla tyyppiä {{ type }}.</target>
+      </segment>
+    </unit>
+    <unit id="f0P5pBD" name="This value should be blank.">
+      <segment state="translated">
+        <source>This value should be blank.</source>
+        <target>Tämän arvon tulisi olla tyhjä.</target>
+      </segment>
+    </unit>
+    <unit id="ih.4TRN" name="The value you selected is not a valid choice.">
+      <segment state="translated">
+        <source>The value you selected is not a valid choice.</source>
+        <target>Valitsemasi arvo ei ole mahdollinen vaihtoehto.</target>
+      </segment>
+    </unit>
+    <unit id="7smtimf" name="0d999f2">
+      <segment state="translated">
+        <source>0d999f2</source>
+        <target>Sinun on valittava vähintään {{ limit }} valinta.|Sinun on valittava vähintään {{ limit }} valintoja.</target>
+      </segment>
+    </unit>
+    <unit id="JRlXq2Z" name="0824486">
+      <segment state="translated">
+        <source>0824486</source>
+        <target>Sinun on valittava enintään {{ limit }} valinta.|Sinun on valittava enintään {{ limit }} valintaa.</target>
+      </segment>
+    </unit>
+    <unit id="87zjiHi" name="One or more of the given values is invalid.">
+      <segment state="translated">
+        <source>One or more of the given values is invalid.</source>
+        <target>Yksi tai useampi valitsemistasi arvoista on virheellinen.</target>
+      </segment>
+    </unit>
+    <unit id="3NeQftv" name="This field was not expected.">
+      <segment state="translated" subState="poedit:fuzzy">
+        <source>This field was not expected.</source>
+        <target>Tätä kenttää ei odotettu.</target>
+      </segment>
+    </unit>
+    <unit id="SwMV4zp" name="This field is missing.">
+      <segment state="translated">
+        <source>This field is missing.</source>
+        <target>Tämä kenttä puuttuu.</target>
+      </segment>
+    </unit>
+    <unit id="LO2vFKN" name="This value is not a valid date.">
+      <segment state="translated">
+        <source>This value is not a valid date.</source>
+        <target>Tämä arvo ei ole kelvollinen päivämäärä.</target>
+      </segment>
+    </unit>
+    <unit id="86dU_nv" name="This value is not a valid datetime.">
+      <segment state="translated" subState="poedit:fuzzy">
+        <source>This value is not a valid datetime.</source>
+        <target>Tämä arvo ei ole kelvollinen päiväys.</target>
+      </segment>
+    </unit>
+    <unit id="PSvNXdi" name="This value is not a valid email address.">
+      <segment state="translated">
+        <source>This value is not a valid email address.</source>
+        <target>Tämä arvo ei ole kelvollinen sähköpostiosoite.</target>
+      </segment>
+    </unit>
+    <unit id="3KeHbZy" name="The file could not be found.">
+      <segment state="translated">
+        <source>The file could not be found.</source>
+        <target>Tiedostoa ei löytynyt.</target>
+      </segment>
+    </unit>
+    <unit id="KtJhQZo" name="The file is not readable.">
+      <segment state="translated">
+        <source>The file is not readable.</source>
+        <target>Tiedosto ei ole luettavissa.</target>
+      </segment>
+    </unit>
+    <unit id="2O3FbJ6" name="1ad411a">
+      <segment state="translated">
+        <source>1ad411a</source>
+        <target>Tiedosto on liian suuri ({{ size }} {{ suffix }}). Sallittu enimmäiskoko on {{ limit }} {{ suffix }}.</target>
+      </segment>
+    </unit>
+    <unit id="p4L.BFV" name="30a318d">
+      <segment state="translated">
+        <source>30a318d</source>
+        <target>Tiedoston mime-tyyppi on virheellinen ({{ type }}). Sallitut mime-tyypit ovat {{ types }}.</target>
+      </segment>
+    </unit>
+    <unit id="NubOmrs" name="This value should be {{ limit }} or less.">
+      <segment state="translated">
+        <source>This value should be {{ limit }} or less.</source>
+        <target>Tämän arvon tulisi olla {{ limit }} tai pienempi.</target>
+      </segment>
+    </unit>
+    <unit id="SjJg9Hy" name="0e0c1e1">
+      <segment state="translated">
+        <source>0e0c1e1</source>
+        <target>Tämä arvo on liian pitkä. Sen pitäisi olla {{ limit }} merkki tai vähemmän.|Tämä arvo on liian pitkä. Sen pitäisi olla {{ limit }} merkkiä tai vähemmän.</target>
+      </segment>
+    </unit>
+    <unit id="qgR8M_U" name="This value should be {{ limit }} or more.">
+      <segment state="translated">
+        <source>This value should be {{ limit }} or more.</source>
+        <target>Tämän arvon tulisi olla vähintään {{ limit }}.</target>
+      </segment>
+    </unit>
+    <unit id="JJVWzKj" name="5188ff9">
+      <segment state="translated">
+        <source>5188ff9</source>
+        <target>Tämä arvo on liian lyhyt. Sen pitäisi olla {{ limit }} merkki tai enemmän.|Tämä arvo on liian lyhyt. Sen pitäisi olla {{ limit }} merkkiä tai enemmän.</target>
+      </segment>
+    </unit>
+    <unit id="1KV4L.t" name="This value should not be blank.">
+      <segment state="translated">
+        <source>This value should not be blank.</source>
+        <target>Tämä arvo ei saa olla tyhjä.</target>
+      </segment>
+    </unit>
+    <unit id="2G4Vepm" name="This value should not be null.">
+      <segment state="translated" subState="poedit:fuzzy">
+        <source>This value should not be null.</source>
+        <target>Tämä arvo ei saa olla tyhjä.</target>
+      </segment>
+    </unit>
+    <unit id="yDc3m6E" name="This value should be null.">
+      <segment state="translated" subState="poedit:fuzzy">
+        <source>This value should be null.</source>
+        <target>Tämän arvon pitäisi olla tyhjä.</target>
+      </segment>
+    </unit>
+    <unit id="zKzWejA" name="This value is not valid.">
+      <segment state="translated">
+        <source>This value is not valid.</source>
+        <target>Tämä arvo on virheellinen.</target>
+      </segment>
+    </unit>
+    <unit id="HSuBZpQ" name="This value is not a valid time.">
+      <segment state="translated">
+        <source>This value is not a valid time.</source>
+        <target>Tämä arvo ei ole kelvollinen aika.</target>
+      </segment>
+    </unit>
+    <unit id="snWc_QT" name="This value is not a valid URL.">
+      <segment state="translated">
+        <source>This value is not a valid URL.</source>
+        <target>Tämä arvo ei ole kelvollinen URL-osoite.</target>
+      </segment>
+    </unit>
+    <unit id="jpaLsb2" name="The two values should be equal.">
+      <segment state="translated">
+        <source>The two values should be equal.</source>
+        <target>Näiden kahden arvon pitäisi olla samat.</target>
+      </segment>
+    </unit>
+    <unit id="fIlB1B_" name="The file is too large. Allowed maximum size is {{ limit }} {{ suffix }}.">
+      <segment state="translated">
+        <source>The file is too large. Allowed maximum size is {{ limit }} {{ suffix }}.</source>
+        <target>Tiedosto on liian suuri. Sallittu enimmäiskoko on {{ limit }} {{ suffix }}.</target>
+      </segment>
+    </unit>
+    <unit id="tW7o0t9" name="The file is too large.">
+      <segment state="translated">
+        <source>The file is too large.</source>
+        <target>Tiedosto on liian suuri.</target>
+      </segment>
+    </unit>
+    <unit id=".exF5Ww" name="The file could not be uploaded.">
+      <segment state="translated">
+        <source>The file could not be uploaded.</source>
+        <target>Tiedostoa ei voitu lähettää.</target>
+      </segment>
+    </unit>
+    <unit id="d7sS5yw" name="This value should be a valid number.">
+      <segment state="translated">
+        <source>This value should be a valid number.</source>
+        <target>Tämän arvon on oltava kelvollinen numero.</target>
+      </segment>
+    </unit>
+    <unit id="BS2Ez6i" name="This file is not a valid image.">
+      <segment state="translated">
+        <source>This file is not a valid image.</source>
+        <target>Tämä tiedosto ei ole kelvollinen kuva.</target>
+      </segment>
+    </unit>
+    <unit id="ydcT9kU" name="This is not a valid IP address.">
+      <segment state="translated">
+        <source>This is not a valid IP address.</source>
+        <target>Tämä ei ole kelvollinen IP-osoite.</target>
+      </segment>
+    </unit>
+    <unit id="lDOGNFX" name="This value is not a valid language.">
+      <segment state="translated">
+        <source>This value is not a valid language.</source>
+        <target>Tämä arvo ei ole kelvollinen kieli.</target>
+      </segment>
+    </unit>
+    <unit id="y9IdYkA" name="This value is not a valid locale.">
+      <segment state="translated" subState="poedit:fuzzy">
+        <source>This value is not a valid locale.</source>
+        <target>Tämä arvo ei ole kelvollinen alue.</target>
+      </segment>
+    </unit>
+    <unit id="1YC0pOd" name="This value is not a valid country.">
+      <segment state="translated">
+        <source>This value is not a valid country.</source>
+        <target>Tämä arvo ei ole kelvollinen maa.</target>
+      </segment>
+    </unit>
+    <unit id="B5ebaMp" name="This value is already used.">
+      <segment state="translated">
+        <source>This value is already used.</source>
+        <target>Tämä arvo on jo käytössä.</target>
+      </segment>
+    </unit>
+    <unit id="L6097a6" name="The size of the image could not be detected.">
+      <segment state="translated">
+        <source>The size of the image could not be detected.</source>
+        <target>Kuvan kokoa ei voitu tunnistaa.</target>
+      </segment>
+    </unit>
+    <unit id="g9NoIBz" name="266051e">
+      <segment state="translated">
+        <source>266051e</source>
+        <target>Kuvan leveys on liian suuri ({{ width }}px). Sallittu enimmäisleveys on {{ max_width }}px.</target>
+      </segment>
+    </unit>
+    <unit id="HTsQNva" name="c1c23f9">
+      <segment state="translated">
+        <source>c1c23f9</source>
+        <target>Kuvan leveys on liian pieni ({{ width }}px). Pienin sallittu leveys on {{ min_width }}px.</target>
+      </segment>
+    </unit>
+    <unit id="h3PRqha" name="9a128f7">
+      <segment state="translated">
+        <source>9a128f7</source>
+        <target>Kuvan korkeus on liian suuri ({{ height }}px). Sallittu enimmäiskorkeus on {{ max_height }}px.</target>
+      </segment>
+    </unit>
+    <unit id="IVraZ3b" name="8a4cd70">
+      <segment state="translated">
+        <source>8a4cd70</source>
+        <target>Kuvan korkeus on liian pieni ({{ height }}px). Pienin sallittu korkeus on {{ min_height }}px.</target>
+      </segment>
+    </unit>
+    <unit id="PSdMNab" name="This value should be the user's current password.">
+      <segment state="translated">
+        <source>This value should be the user's current password.</source>
+        <target>Tämän arvon pitäisi olla käyttäjän nykyinen salasana.</target>
+      </segment>
+    </unit>
+    <unit id="Anek_FY" name="fd389d6">
+      <segment state="translated">
+        <source>fd389d6</source>
+        <target>Tässä arvossa tulee olla täsmälleen {{ limit }} merkki.|Tässä arvossa tulee olla täsmälleen {{ limit }} merkkiä.</target>
+      </segment>
+    </unit>
+    <unit id="xJ2Bcr_" name="The file was only partially uploaded.">
+      <segment state="translated">
+        <source>The file was only partially uploaded.</source>
+        <target>Tiedosto lähetettiin vain osittain.</target>
+      </segment>
+    </unit>
+    <unit id="HzkJDtF" name="No file was uploaded.">
+      <segment state="translated">
+        <source>No file was uploaded.</source>
+        <target>Tiedostoa ei ole lähetetty.</target>
+      </segment>
+    </unit>
+    <unit id="mHfEaB3" name="No temporary folder was configured in php.ini.">
+      <segment state="translated">
+        <source>No temporary folder was configured in php.ini.</source>
+        <target>php.ini-tiedostossa ei määritetty väliaikaista kansiota tai määritettyä kansiota ei ole olemassa.</target>
+      </segment>
+    </unit>
+    <unit id="y9K3BGb" name="Cannot write temporary file to disk.">
+      <segment state="translated">
+        <source>Cannot write temporary file to disk.</source>
+        <target>Väliaikaistiedostoa ei voi kirjoittaa levylle.</target>
+      </segment>
+    </unit>
+    <unit id="kx3yHIM" name="A PHP extension caused the upload to fail.">
+      <segment state="translated">
+        <source>A PHP extension caused the upload to fail.</source>
+        <target>PHP-laajennus aiheutti latauksen epäonnistumisen.</target>
+      </segment>
+    </unit>
+    <unit id="YuLxmhd" name="b54c218">
+      <segment state="translated" subState="poedit:fuzzy">
+        <source>b54c218</source>
+        <target>Tämän kokoelman tulisi sisältää vähintään {{ limit }} elementin.|Tämän kokoelman tulisi sisältää vähintään {{ limit }} elementtiä.</target>
+      </segment>
+    </unit>
+    <unit id="qXV2OMI" name="949632c">
+      <segment state="translated" subState="poedit:fuzzy">
+        <source>949632c</source>
+        <target>Tämän kokoelman tulisi sisältää {{ limit }} elementin tai vähemmän.|Tämän kokoelman tulisi sisältää {{ limit }} elementtiä tai vähemmän.</target>
+      </segment>
+    </unit>
+    <unit id="BnjGMFh" name="e0582dc">
+      <segment state="translated" subState="poedit:fuzzy">
+        <source>e0582dc</source>
+        <target>Tämän kokoelman tulisi sisältää täsmälleen {{ limit }} elementin.|Tämän kokoelman tulisi sisältää täsmälleen {{ limit }} elementtiä.</target>
+      </segment>
+    </unit>
+    <unit id="MAzmID7" name="Invalid card number.">
+      <segment state="translated">
+        <source>Invalid card number.</source>
+        <target>Virheellinen kortin numero.</target>
+      </segment>
+    </unit>
+    <unit id="c3REGK3" name="Unsupported card type or invalid card number.">
+      <segment state="translated">
+        <source>Unsupported card type or invalid card number.</source>
+        <target>Tukematon korttityyppi tai virheellinen kortin numero.</target>
+      </segment>
+    </unit>
+    <unit id="XSVzcbV" name="This is not a valid International Bank Account Number (IBAN).">
+      <segment state="translated">
+        <source>This is not a valid International Bank Account Number (IBAN).</source>
+        <target>Tämä ei ole kelvollinen kansainvälinen tilinumero (IBAN).</target>
+      </segment>
+    </unit>
+    <unit id="yHirwNr" name="This value is not a valid ISBN-10.">
+      <segment state="translated">
+        <source>This value is not a valid ISBN-10.</source>
+        <target>Tämä arvo ei ole kelvollinen ISBN-10.</target>
+      </segment>
+    </unit>
+    <unit id="c_q0_ua" name="This value is not a valid ISBN-13.">
+      <segment state="translated">
+        <source>This value is not a valid ISBN-13.</source>
+        <target>Tämä arvo ei ole kelvollinen ISBN-13.</target>
+      </segment>
+    </unit>
+    <unit id="M4FlD6n" name="This value is neither a valid ISBN-10 nor a valid ISBN-13.">
+      <segment state="translated">
+        <source>This value is neither a valid ISBN-10 nor a valid ISBN-13.</source>
+        <target>Tämä arvo ei ole kelvollinen ISBN-10 eikä kelvollinen ISBN-13.</target>
+      </segment>
+    </unit>
+    <unit id="cuct0Ow" name="This value is not a valid ISSN.">
+      <segment state="translated">
+        <source>This value is not a valid ISSN.</source>
+        <target>Tämä arvo ei ole kelvollinen ISSN.</target>
+      </segment>
+    </unit>
+    <unit id="JBLs1a1" name="This value is not a valid currency.">
+      <segment state="translated">
+        <source>This value is not a valid currency.</source>
+        <target>Tämä arvo ei ole kelvollinen valuutta.</target>
+      </segment>
+    </unit>
+    <unit id="c.WxzFW" name="This value should be equal to {{ compared_value }}.">
+      <segment state="translated">
+        <source>This value should be equal to {{ compared_value }}.</source>
+        <target>Tämän arvon pitäisi olla sama kuin {{ compared_value }}.</target>
+      </segment>
+    </unit>
+    <unit id="_jdjkwq" name="This value should be greater than {{ compared_value }}.">
+      <segment state="translated">
+        <source>This value should be greater than {{ compared_value }}.</source>
+        <target>Tämän arvon tulisi olla suurempi kuin {{ compared_value }}.</target>
+      </segment>
+    </unit>
+    <unit id="o8A8a0H" name="This value should be greater than or equal to {{ compared_value }}.">
+      <segment state="translated">
+        <source>This value should be greater than or equal to {{ compared_value }}.</source>
+        <target>Tämän arvon on oltava suurempi tai yhtä suuri kuin {{ compared_value }}.</target>
+      </segment>
+    </unit>
+    <unit id="SreIWoo" name="9670078">
+      <segment state="translated">
+        <source>9670078</source>
+        <target>Tämän arvon pitäisi olla sama kuin {{ compared_value_type }} {{ compared_value }}.</target>
+      </segment>
+    </unit>
+    <unit id="jG0QFKw" name="This value should be less than {{ compared_value }}.">
+      <segment state="translated">
+        <source>This value should be less than {{ compared_value }}.</source>
+        <target>Tämän arvon tulisi olla pienempi kuin {{ compared_value }}.</target>
+      </segment>
+    </unit>
+    <unit id="9lWrKmm" name="This value should be less than or equal to {{ compared_value }}.">
+      <segment state="translated">
+        <source>This value should be less than or equal to {{ compared_value }}.</source>
+        <target>Tämän arvon tulisi olla pienempi tai yhtä suuri kuin {{ compared_value }}.</target>
+      </segment>
+    </unit>
+    <unit id="ftTwGs." name="This value should not be equal to {{ compared_value }}.">
+      <segment state="translated">
+        <source>This value should not be equal to {{ compared_value }}.</source>
+        <target>Tämän arvon ei pitäisi olla yhtä suuri kuin {{ compared_value }}.</target>
+      </segment>
+    </unit>
+    <unit id="JIjdvtb" name="0eedf91">
+      <segment state="translated">
+        <source>0eedf91</source>
+        <target>Tämän arvon ei pitäisi olla sama kuin {{ compared_value_type }} {{ compared_value }}.</target>
+      </segment>
+    </unit>
+    <unit id="vzvxzpR" name="9c3ad0f">
+      <segment state="translated">
+        <source>9c3ad0f</source>
+        <target>Kuvasuhde on liian suuri ({{ ratio }}). Sallittu enimmäissuhde on {{ max_ratio }}.</target>
+      </segment>
+    </unit>
+    <unit id="LiDaIWN" name="4376d45">
+      <segment state="translated">
+        <source>4376d45</source>
+        <target>Kuvasuhde on liian pieni ({{ ratio }}). Pienin sallittu suhde on {{ min_ratio }}.</target>
+      </segment>
+    </unit>
+    <unit id="rpajj.a" name="The image is square ({{ width }}x{{ height }}px). Square images are not allowed.">
+      <segment state="translated">
+        <source>The image is square ({{ width }}x{{ height }}px). Square images are not allowed.</source>
+        <target>Kuva on neliönmuotoinen ({{ width }}x{{ height }}px). Nelikulmaisia kuvia ei sallita.</target>
+      </segment>
+    </unit>
+    <unit id="501jWTO" name="1dc128a">
+      <segment state="translated">
+        <source>1dc128a</source>
+        <target>Kuva on maisemasuuntainen ({{ width }}x{{ height }}px). Maisemasuuntaisia kuvia ei sallita.</target>
+      </segment>
+    </unit>
+    <unit id="J4L.QnM" name="9e27714">
+      <segment state="translated">
+        <source>9e27714</source>
+        <target>Kuva on muotokuvasuuntainen ({{ leveys }}x{{ korkeus }}px). Muotokuvasuuntaiset kuvat eivät ole sallittuja.</target>
+      </segment>
+    </unit>
+    <unit id="jZgqcpL" name="An empty file is not allowed.">
+      <segment state="translated">
+        <source>An empty file is not allowed.</source>
+        <target>Tyhjä tiedosto ei ole sallittu.</target>
+      </segment>
+    </unit>
+    <unit id="bcfVezI" name="The host could not be resolved.">
+      <segment state="translated">
+        <source>The host could not be resolved.</source>
+        <target>Verkkoisäntää ei saatu selville.</target>
+      </segment>
+    </unit>
+    <unit id="NtzKvgt" name="This value does not match the expected {{ charset }} charset.">
+      <segment state="translated">
+        <source>This value does not match the expected {{ charset }} charset.</source>
+        <target>Tämä arvo ei vastaa odotettua {{ charset }} merkistöä.</target>
+      </segment>
+    </unit>
+    <unit id="Wi2y9.N" name="This is not a valid Business Identifier Code (BIC).">
+      <segment state="translated">
+        <source>This is not a valid Business Identifier Code (BIC).</source>
+        <target>Tämä ei ole kelvollinen BIC-koodi (Business Identifier Code).</target>
+      </segment>
+    </unit>
+    <unit id="VKDowX6" name="Error">
+      <segment state="translated">
+        <source>Error</source>
+        <target>Virhe</target>
+      </segment>
+    </unit>
+    <unit id="8zqt0Ik" name="This is not a valid UUID.">
+      <segment state="translated">
+        <source>This is not a valid UUID.</source>
+        <target>Tämä ei ole kelvollinen UUID.</target>
+      </segment>
+    </unit>
+    <unit id="ru.4wkH" name="This value should be a multiple of {{ compared_value }}.">
+      <segment state="translated">
+        <source>This value should be a multiple of {{ compared_value }}.</source>
+        <target>Tämän arvon tulisi olla {{ compared_value }}:n kerrannainen.</target>
+      </segment>
+    </unit>
+    <unit id="M3vyK6s" name="This Business Identifier Code (BIC) is not associated with IBAN {{ iban }}.">
+      <segment state="translated">
+        <source>This Business Identifier Code (BIC) is not associated with IBAN {{ iban }}.</source>
+        <target>Tämä BIC-koodi (Business Identifier Code) ei liity IBAN:iin {{ iban }}.</target>
+      </segment>
+    </unit>
+    <unit id="2v2xpAh" name="This value should be valid JSON.">
+      <segment state="translated">
+        <source>This value should be valid JSON.</source>
+        <target>Tämän arvon pitäisi olla kelvollista JSON -koodia.</target>
+      </segment>
+    </unit>
+    <unit id="9CWVEGq" name="This collection should contain only unique elements.">
+      <segment state="translated">
+        <source>This collection should contain only unique elements.</source>
+        <target>Tämän kokoelman tulisi sisältää vain ainutlaatuisia elementtejä.</target>
+      </segment>
+    </unit>
+    <unit id="WdvZfq." name="This value should be positive.">
+      <segment state="translated">
+        <source>This value should be positive.</source>
+        <target>Tämän arvon tulisi olla positiivinen.</target>
+      </segment>
+    </unit>
+    <unit id="ubHMK2q" name="This value should be either positive or zero.">
+      <segment state="translated">
+        <source>This value should be either positive or zero.</source>
+        <target>Tämän arvon on oltava joko positiivinen tai nolla.</target>
+      </segment>
+    </unit>
+    <unit id="IwNTzo_" name="This value should be negative.">
+      <segment state="translated">
+        <source>This value should be negative.</source>
+        <target>Tämän arvon pitäisi olla negatiivinen.</target>
+      </segment>
+    </unit>
+    <unit id="0GfwMfP" name="This value should be either negative or zero.">
+      <segment state="translated">
+        <source>This value should be either negative or zero.</source>
+        <target>Tämän arvon on oltava joko negatiivinen tai nolla.</target>
+      </segment>
+    </unit>
+    <unit id="fs3qQZR" name="This value is not a valid timezone.">
+      <segment state="translated">
+        <source>This value is not a valid timezone.</source>
+        <target>Tämä arvo ei ole kelvollinen aikavyöhyke.</target>
+      </segment>
+    </unit>
+    <unit id="A3Gr4fn" name="7e27e92">
+      <segment state="translated">
+        <source>7e27e92</source>
+        <target>Tämä salasana on vuotanut tietomurron yhteydessä, sitä ei saa käyttää. Käytä toista salasanaa.</target>
+      </segment>
+    </unit>
+    <unit id="VvxxWas" name="This value should be between {{ min }} and {{ max }}.">
+      <segment state="translated">
+        <source>This value should be between {{ min }} and {{ max }}.</source>
+        <target>Tämän arvon tulisi olla {{ min }} ja {{ max }} välillä.</target>
+      </segment>
+    </unit>
+    <unit id=".SEaaBa" name="This form should not contain extra fields.">
+      <segment state="translated">
+        <source>This form should not contain extra fields.</source>
+        <target>Tämän lomakkeen ei pitäisi sisältää ylimääräisiä kenttiä.</target>
+      </segment>
+    </unit>
+    <unit id="WPnLAh9" name="The uploaded file was too large. Please try to upload a smaller file.">
+      <segment state="translated">
+        <source>The uploaded file was too large. Please try to upload a smaller file.</source>
+        <target>Ladattu tiedosto oli liian suuri. Yritä ladata pienempi tiedosto.</target>
+      </segment>
+    </unit>
+    <unit id="fvxWW3V" name="The CSRF token is invalid. Please try to resubmit the form.">
+      <segment state="translated">
+        <source>The CSRF token is invalid. Please try to resubmit the form.</source>
+        <target>CSRF-tunniste on virheellinen. Yritä lähettää lomake uudelleen.</target>
+      </segment>
+    </unit>
+    <unit id="TG1D5NO" name="post.blank_summary">
+      <notes>
+        <note priority="1">obsolete</note>
+      </notes>
+      <segment state="translated">
+        <source>post.blank_summary</source>
+        <target>Anna postauksellesi tiivistelmä!</target>
+      </segment>
+    </unit>
+    <unit id="BZOzjk." name="post.blank_content">
+      <notes>
+        <note priority="1">obsolete</note>
+      </notes>
+      <segment state="translated">
+        <source>post.blank_content</source>
+        <target>Postauksessasi pitäisi olla sisältöä!</target>
+      </segment>
+    </unit>
+    <unit id="S6M.YWY" name="post.too_short_content">
+      <notes>
+        <note priority="1">obsolete</note>
+      </notes>
+      <segment state="translated">
+        <source>post.too_short_content</source>
+        <target>Postauksen sisältö on liian lyhyt (vähintään {{ limit }} merkkiä)</target>
+      </segment>
+    </unit>
+    <unit id="niM7JYj" name="post.too_many_tags">
+      <notes>
+        <note priority="1">obsolete</note>
+      </notes>
+      <segment state="translated">
+        <source>post.too_many_tags</source>
+        <target>Liikaa tunnisteita (lisää {{ limit }} tunnistetta tai vähemmän)</target>
+      </segment>
+    </unit>
+    <unit id="ARUoKOV" name="comment.blank">
+      <notes>
+        <note priority="1">obsolete</note>
+      </notes>
+      <segment state="translated">
+        <source>comment.blank</source>
+        <target>Älä jätä kommenttiasi tyhjäksi!</target>
+      </segment>
+    </unit>
+    <unit id="J.L_ppQ" name="comment.too_short">
+      <notes>
+        <note priority="1">obsolete</note>
+      </notes>
+      <segment state="translated">
+        <source>comment.too_short</source>
+        <target>Kommentti on liian lyhyt (vähintään {{ limit }} merkkiä)</target>
+      </segment>
+    </unit>
+    <unit id=".bkQKXb" name="comment.too_long">
+      <notes>
+        <note priority="1">obsolete</note>
+      </notes>
+      <segment state="translated">
+        <source>comment.too_long</source>
+        <target>Kommentti on liian pitkä (enintään {{ limit }} merkkiä)</target>
+      </segment>
+    </unit>
+    <unit id="cTT8h4_" name="comment.is_spam">
+      <notes>
+        <note priority="1">obsolete</note>
+      </notes>
+      <segment state="translated">
+        <source>comment.is_spam</source>
+        <target>Tämän kommentin sisältöä pidetään roskapostina.</target>
+      </segment>
+    </unit>
+    <unit id="LDy5h0B" name="user.duplicate_email">
+      <segment state="translated">
+        <source>user.duplicate_email</source>
+        <target>Käyttäjä sähköpostiosoitteella {{ value }} on jo olemassa.</target>
+      </segment>
+    </unit>
+    <unit id="D4OMpCY" name="user.duplicate_username">
+      <segment state="translated">
+        <source>user.duplicate_username</source>
+        <target>Käyttäjä käyttäjänimellä {{ value }} on jo olemassa.</target>
+      </segment>
+    </unit>
+    <unit id="HjWW.NS" name="user.not_valid_password">
+      <segment state="translated">
+        <source>user.not_valid_password</source>
+        <target>Virheellinen salasana. Salasanan tulee olla vähintään 6 merkkiä pitkä.</target>
+      </segment>
+    </unit>
+    <unit id="fkXL.k6" name="user.not_valid_email">
+      <segment state="translated">
+        <source>user.not_valid_email</source>
+        <target>Virheellinen sähköpostiosoite</target>
+      </segment>
+    </unit>
+    <unit id="4eH4IFY" name="user.username_invalid_characters">
+      <segment state="translated">
+        <source>user.username_invalid_characters</source>
+        <target>Käyttäjätunnus saa sisältää vain pieniä latinalaisia kirjaimia, numeroita ja alaviivoja.</target>
+      </segment>
+    </unit>
+    <unit id="4oq.CNw" name="user.not_valid_display_name">
+      <segment state="translated">
+        <source>user.not_valid_display_name</source>
+        <target>Virheellinen näyttönimi</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
